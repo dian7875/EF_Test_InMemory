@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fowks\\Downloads\\UNA 2024 - Ciclo I\\Progra II\\POO\\EntityFramework_Prueba\\API_PruebaEF\\API_PruebaEF.csproj": {}
+    "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\API_PruebaEF\\API_PruebaEF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fowks\\Downloads\\UNA 2024 - Ciclo I\\Progra II\\POO\\EntityFramework_Prueba\\API_PruebaEF\\API_PruebaEF.csproj": {
+    "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\API_PruebaEF\\API_PruebaEF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fowks\\Downloads\\UNA 2024 - Ciclo I\\Progra II\\POO\\EntityFramework_Prueba\\API_PruebaEF\\API_PruebaEF.csproj",
+        "projectUniqueName": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\API_PruebaEF\\API_PruebaEF.csproj",
         "projectName": "API_PruebaEF",
-        "projectPath": "C:\\Users\\fowks\\Downloads\\UNA 2024 - Ciclo I\\Progra II\\POO\\EntityFramework_Prueba\\API_PruebaEF\\API_PruebaEF.csproj",
-        "packagesPath": "C:\\Users\\fowks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fowks\\Downloads\\UNA 2024 - Ciclo I\\Progra II\\POO\\EntityFramework_Prueba\\API_PruebaEF\\obj\\",
+        "projectPath": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\API_PruebaEF\\API_PruebaEF.csproj",
+        "packagesPath": "C:\\Users\\scorp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\API_PruebaEF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fowks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\scorp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,16 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/PrestigeNerds/_packaging/ComponentSpace/nuget/v3/index.json": {},
-          "https://prestigenerds.pkgs.visualstudio.com/_packaging/PfsPackages/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\fowks\\Downloads\\UNA 2024 - Ciclo I\\Progra II\\POO\\EntityFramework_Prueba\\Services\\Services.csproj": {
-                "projectPath": "C:\\Users\\fowks\\Downloads\\UNA 2024 - Ciclo I\\Progra II\\POO\\EntityFramework_Prueba\\Services\\Services.csproj"
+              "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Services\\Services.csproj"
               }
             }
           }
@@ -40,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,6 +56,20 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0-preview.3.24172.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.12, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -78,21 +95,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\fowks\\Downloads\\UNA 2024 - Ciclo I\\Progra II\\POO\\EntityFramework_Prueba\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fowks\\Downloads\\UNA 2024 - Ciclo I\\Progra II\\POO\\EntityFramework_Prueba\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\fowks\\Downloads\\UNA 2024 - Ciclo I\\Progra II\\POO\\EntityFramework_Prueba\\Entidades\\Entidades.csproj",
-        "packagesPath": "C:\\Users\\fowks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fowks\\Downloads\\UNA 2024 - Ciclo I\\Progra II\\POO\\EntityFramework_Prueba\\Entidades\\obj\\",
+        "projectPath": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\scorp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fowks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\scorp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -100,9 +117,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/PrestigeNerds/_packaging/ComponentSpace/nuget/v3/index.json": {},
-          "https://prestigenerds.pkgs.visualstudio.com/_packaging/PfsPackages/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -114,6 +129,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -135,21 +155,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\fowks\\Downloads\\UNA 2024 - Ciclo I\\Progra II\\POO\\EntityFramework_Prueba\\Services\\Services.csproj": {
+    "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fowks\\Downloads\\UNA 2024 - Ciclo I\\Progra II\\POO\\EntityFramework_Prueba\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\fowks\\Downloads\\UNA 2024 - Ciclo I\\Progra II\\POO\\EntityFramework_Prueba\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\fowks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fowks\\Downloads\\UNA 2024 - Ciclo I\\Progra II\\POO\\EntityFramework_Prueba\\Services\\obj\\",
+        "projectPath": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\scorp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fowks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\scorp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -157,16 +177,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/PrestigeNerds/_packaging/ComponentSpace/nuget/v3/index.json": {},
-          "https://prestigenerds.pkgs.visualstudio.com/_packaging/PfsPackages/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\fowks\\Downloads\\UNA 2024 - Ciclo I\\Progra II\\POO\\EntityFramework_Prueba\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\fowks\\Downloads\\UNA 2024 - Ciclo I\\Progra II\\POO\\EntityFramework_Prueba\\Entidades\\Entidades.csproj"
+              "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -175,13 +193,38 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
             "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.18, )"
             }
@@ -202,7 +245,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

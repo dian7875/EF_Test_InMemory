@@ -13,10 +13,14 @@ namespace Services.MyDbContext
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             //base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseInMemoryDatabase("MyDatabase");
+            optionsBuilder.UseSqlServer("Server=ZER0;Database=Api_test;" +
+                "Trusted_Connection=True; MultipleActiveResultSets=true;" +
+                "TrustServerCertificate=True");
         }
         public DbSet<Author> Authors { get; set; }
         public DbSet<Book> Books { get; set; }
+
+        public DbSet<Student> Students { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

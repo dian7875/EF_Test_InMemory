@@ -1,11 +1,13 @@
 using Services.Authors;
 using Services.Books;
+using Services.Students;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddScoped<ISvAuthor, SvAuthor>();
 builder.Services.AddScoped<ISvBook, SvBook>();
+builder.Services.AddScoped < ISvStudent, SvStudent>() ;
 
 builder.Services.AddControllers()
     .AddNewtonsoftJson(x =>

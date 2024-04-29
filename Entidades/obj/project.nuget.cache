@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aD1OjrTP86NStR3fVV/Ak+gK5IT8bRQA1MeuVkGfA2tPjIfrZUI8CAKa496vzhRZARYp0Ss4l7CBkqum1aDlQA==",
+  "dgSpecHash": "Qi5JEa3xb0rqUO7Hmm5C2VVvXNg/ivEjXsTzjKMky3XgkRIPzRCwN/QwUhIsji1O/JchY+6CNGY+yR2+MJ9xrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fowks\\Downloads\\UNA 2024 - Ciclo I\\Progra II\\POO\\EntityFramework_Prueba\\Entidades\\Entidades.csproj",
+  "projectFilePath": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Entidades\\Entidades.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
