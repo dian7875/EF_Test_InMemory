@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A74D86D-8380-4548-BDD9-6663197BF047}|API_PruebaEF\\API_PruebaEF.csproj|c:\\users\\scorp\\gitrep\\ef_test_inmemory\\api_pruebaef\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A74D86D-8380-4548-BDD9-6663197BF047}|API_PruebaEF\\API_PruebaEF.csproj|solutionrelative:api_pruebaef\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DBFC6F83-E6CF-4F8C-9891-76B7270647F3}|Entidades\\Entidades.csproj|c:\\users\\scorp\\gitrep\\ef_test_inmemory\\entidades\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBFC6F83-E6CF-4F8C-9891-76B7270647F3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27C173E7-A05F-48BE-870A-28303F3AC781}|Services\\Services.csproj|c:\\users\\scorp\\gitrep\\ef_test_inmemory\\services\\mydbcontext\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27C173E7-A05F-48BE-870A-28303F3AC781}|Services\\Services.csproj|solutionrelative:services\\mydbcontext\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27C173E7-A05F-48BE-870A-28303F3AC781}|Services\\Services.csproj|c:\\users\\scorp\\gitrep\\ef_test_inmemory\\services\\student\\svstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27C173E7-A05F-48BE-870A-28303F3AC781}|Services\\Services.csproj|solutionrelative:services\\student\\svstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27C173E7-A05F-48BE-870A-28303F3AC781}|Services\\Services.csproj|c:\\users\\scorp\\gitrep\\ef_test_inmemory\\services\\student\\isvstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27C173E7-A05F-48BE-870A-28303F3AC781}|Services\\Services.csproj|solutionrelative:services\\student\\isvstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27C173E7-A05F-48BE-870A-28303F3AC781}|Services\\Services.csproj|c:\\users\\scorp\\gitrep\\ef_test_inmemory\\services\\authors\\svauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27C173E7-A05F-48BE-870A-28303F3AC781}|Services\\Services.csproj|solutionrelative:services\\authors\\svauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27C173E7-A05F-48BE-870A-28303F3AC781}|Services\\Services.csproj|c:\\users\\scorp\\gitrep\\ef_test_inmemory\\services\\student\\svstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C173E7-A05F-48BE-870A-28303F3AC781}|Services\\Services.csproj|solutionrelative:services\\student\\svstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A74D86D-8380-4548-BDD9-6663197BF047}|API_PruebaEF\\API_PruebaEF.csproj|c:\\users\\scorp\\gitrep\\ef_test_inmemory\\api_pruebaef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A74D86D-8380-4548-BDD9-6663197BF047}|API_PruebaEF\\API_PruebaEF.csproj|solutionrelative:api_pruebaef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27C173E7-A05F-48BE-870A-28303F3AC781}|Services\\Services.csproj|c:\\users\\scorp\\gitrep\\ef_test_inmemory\\services\\migrations\\20240428040249_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27C173E7-A05F-48BE-870A-28303F3AC781}|Services\\Services.csproj|solutionrelative:services\\migrations\\20240428040249_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{27C173E7-A05F-48BE-870A-28303F3AC781}|Services\\Services.csproj|c:\\users\\scorp\\gitrep\\ef_test_inmemory\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{27C173E7-A05F-48BE-870A-28303F3AC781}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A74D86D-8380-4548-BDD9-6663197BF047}|API_PruebaEF\\API_PruebaEF.csproj|c:\\users\\scorp\\gitrep\\ef_test_inmemory\\api_pruebaef\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A74D86D-8380-4548-BDD9-6663197BF047}|API_PruebaEF\\API_PruebaEF.csproj|solutionrelative:api_pruebaef\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C173E7-A05F-48BE-870A-28303F3AC781}|Services\\Services.csproj|c:\\users\\scorp\\gitrep\\ef_test_inmemory\\services\\mydbcontext\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C173E7-A05F-48BE-870A-28303F3AC781}|Services\\Services.csproj|solutionrelative:services\\mydbcontext\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C173E7-A05F-48BE-870A-28303F3AC781}|Services\\Services.csproj|c:\\users\\scorp\\gitrep\\ef_test_inmemory\\services\\authors\\svauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C173E7-A05F-48BE-870A-28303F3AC781}|Services\\Services.csproj|solutionrelative:services\\authors\\svauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C173E7-A05F-48BE-870A-28303F3AC781}|Services\\Services.csproj|c:\\users\\scorp\\gitrep\\ef_test_inmemory\\services\\migrations\\20240428040249_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C173E7-A05F-48BE-870A-28303F3AC781}|Services\\Services.csproj|solutionrelative:services\\migrations\\20240428040249_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A74D86D-8380-4548-BDD9-6663197BF047}|API_PruebaEF\\API_PruebaEF.csproj|c:\\users\\scorp\\gitrep\\ef_test_inmemory\\api_pruebaef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -78,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,45 +94,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MyContext.cs",
-              "DocumentMoniker": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Services\\MyDbContext\\MyContext.cs",
-              "RelativeDocumentMoniker": "Services\\MyDbContext\\MyContext.cs",
-              "ToolTip": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Services\\MyDbContext\\MyContext.cs",
-              "RelativeToolTip": "Services\\MyDbContext\\MyContext.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T21:39:41.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ISvStudent.cs",
-              "DocumentMoniker": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Services\\Student\\ISvStudent.cs",
-              "RelativeDocumentMoniker": "Services\\Student\\ISvStudent.cs",
-              "ToolTip": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Services\\Student\\ISvStudent.cs",
-              "RelativeToolTip": "Services\\Student\\ISvStudent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T20:23:31.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\API_PruebaEF\\Program.cs",
-              "RelativeDocumentMoniker": "API_PruebaEF\\Program.cs",
-              "ToolTip": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\API_PruebaEF\\Program.cs",
-              "RelativeToolTip": "API_PruebaEF\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBEAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T21:06:50.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
               "Title": "API_PruebaEF.csproj",
               "DocumentMoniker": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\API_PruebaEF\\API_PruebaEF.csproj",
@@ -145,20 +106,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "SvStudent.cs",
               "DocumentMoniker": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Services\\Student\\SvStudent.cs",
               "RelativeDocumentMoniker": "Services\\Student\\SvStudent.cs",
               "ToolTip": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Services\\Student\\SvStudent.cs",
               "RelativeToolTip": "Services\\Student\\SvStudent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAApwBwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T20:24:43.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T20:24:43.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "SvAuthor.cs",
               "DocumentMoniker": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Services\\Authors\\SvAuthor.cs",
               "RelativeDocumentMoniker": "Services\\Authors\\SvAuthor.cs",
@@ -166,38 +126,60 @@
               "RelativeToolTip": "Services\\Authors\\SvAuthor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T21:14:58.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T21:14:58.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\API_PruebaEF\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "API_PruebaEF\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\API_PruebaEF\\Controllers\\StudentController.cs",
               "RelativeToolTip": "API_PruebaEF\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBsAAAAiAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T20:53:09.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T20:53:09.76Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Entidades\\Student.cs",
               "RelativeDocumentMoniker": "Entidades\\Student.cs",
               "ToolTip": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Entidades\\Student.cs",
               "RelativeToolTip": "Entidades\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T05:12:39.936Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "ISvStudent.cs",
+              "DocumentMoniker": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Services\\Student\\ISvStudent.cs",
+              "RelativeDocumentMoniker": "Services\\Student\\ISvStudent.cs",
+              "ToolTip": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Services\\Student\\ISvStudent.cs",
+              "RelativeToolTip": "Services\\Student\\ISvStudent.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T20:23:31.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\API_PruebaEF\\Program.cs",
+              "RelativeDocumentMoniker": "API_PruebaEF\\Program.cs",
+              "ToolTip": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\API_PruebaEF\\Program.cs",
+              "RelativeToolTip": "API_PruebaEF\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T21:06:50.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Services.csproj",
               "DocumentMoniker": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Services\\Services.csproj",
               "RelativeDocumentMoniker": "Services\\Services.csproj",
@@ -206,6 +188,18 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-27T21:26:24.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Services\\MyDbContext\\MyContext.cs",
+              "RelativeDocumentMoniker": "Services\\MyDbContext\\MyContext.cs",
+              "ToolTip": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Services\\MyDbContext\\MyContext.cs",
+              "RelativeToolTip": "Services\\MyDbContext\\MyContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T21:39:41.337Z"
             },
             {
               "$type": "Document",
@@ -221,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "20240428040249_initialmigration.cs",
               "DocumentMoniker": "C:\\Users\\scorp\\GitRep\\EF_Test_InMemory\\Services\\Migrations\\20240428040249_initialmigration.cs",
               "RelativeDocumentMoniker": "Services\\Migrations\\20240428040249_initialmigration.cs",
@@ -301,8 +295,7 @@
               "RelativeToolTip": "API_PruebaEF\\Controllers\\AuthorsController.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T21:12:21.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T21:12:21.043Z"
             }
           ]
         }
